@@ -1,0 +1,10 @@
+minio:
+  endpoint: http://10.10.10.4:9000
+  accessKey: TxIqjoN28FCBQcw8
+  secretKey: UE6BMEAy2kmCrv1ZdZ549hC78zc4fLYV
+  bucketName: dev
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      enabled: on
