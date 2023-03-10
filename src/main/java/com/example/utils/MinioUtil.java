@@ -112,7 +112,7 @@ public class MinioUtil {
                 }
             }
         } catch (Exception e) {
-            
+
         }
     }
 }
